@@ -1,0 +1,15 @@
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\bin\Debug\net7.0\JAVA.exe
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\bin\Debug\net7.0\JAVA.deps.json
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\bin\Debug\net7.0\JAVA.runtimeconfig.json
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\bin\Debug\net7.0\JAVA.dll
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\bin\Debug\net7.0\JAVA.pdb
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.csproj.AssemblyReference.cache
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.AssemblyInfoInputs.cache
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.AssemblyInfo.cs
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.csproj.CoreCompileInputs.cache
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.dll
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\refint\JAVA.dll
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.pdb
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\JAVA.genruntimeconfig.cache
+C:\Users\Vitalij\OneDrive\Documents\_39-group_\JAVA\obj\Debug\net7.0\ref\JAVA.dll
